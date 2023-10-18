@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "P\u00e9rez",
+        "edad": 30,
+        "saldo": 100.0
+    },
+    {
+        "nombre": "Mar\u00eda",
+        "apellido": "G\u00f3mez",
+        "edad": 25,
+        "saldo": 75.0
+    }
+]

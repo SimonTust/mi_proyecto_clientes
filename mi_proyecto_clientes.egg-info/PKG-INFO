@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mi-proyecto-clientes
+Version: 1.0
+Summary: Proyecto de manejo de clientes
+Home-page: https://github.com/tu-usuario/mi_proyecto_clientes
+Author: Simon Tust
+Requires-Dist: clientes
